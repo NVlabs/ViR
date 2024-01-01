@@ -1,6 +1,6 @@
 # ViR: Towards Efficient Vision Retention Backbones
 
-Official PyTorch implementation of [**ViR: Towards Efficient Vision Retention Backbones**](https://arxiv.org/abs/2310.19731).
+Official PyTorch implementation of [**ViR: Towards Efficient Vision Retention Backbones**](https://drive.google.com/file/d/1ny96c7E234dZvbdz-5BbCBEie1zWsBbj/view?usp=sharing).
 
 
 **Code and pretrained ViR models will be released soon !**  
